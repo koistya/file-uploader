@@ -1,0 +1,15 @@
+/**
+ * Copyright © 2016 Konstantin Tarkus <hello@tarkus.me>
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.txt file in the root directory of this source tree.
+ */
+
+.form {
+  width: 480px;
+  margin: 50px auto;
+}
+
+.field {
+  width: 480px;
+}
